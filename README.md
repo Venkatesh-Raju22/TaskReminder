@@ -18,7 +18,7 @@ Screenshots
  <p>Completed Tasks</p>
  <img src="https://github.com/Venkatesh-Raju22/TaskReminder/blob/master/app/sampledata/Completed%20Tasks.png" width="270">
  <p>Deleting Completed Tasks</p>
- <img src="https://github.com/Venkatesh-Raju22/TaskReminder/blob/master/app/sampledata/Removing%20completed%20tasks.png width="270">
+ <img src="https://github.com/Venkatesh-Raju22/TaskReminder/blob/master/app/sampledata/Removing%20completed%20tasks.png" width="270">
 </p>
 
 Issues
