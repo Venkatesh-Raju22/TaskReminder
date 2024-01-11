@@ -5,7 +5,6 @@ Features
 ---
 * Manage your tasks
 * Plan your day by viewing your tasks at a glance
-* Set task due dates and priority
 * Data stored all locally on your device
 
 Screenshots
